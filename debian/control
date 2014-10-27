@@ -5,8 +5,6 @@ Priority: optional
 Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 9), pkg-config, uuid-dev, libblkid-dev
 Homepage: http://bcache.evilpiepirate.org/
-Vcs-Browser: https://github.com/g2p/bcache-tools
-Vcs-Git: https://github.com/g2p/bcache-tools.git
 
 Package: bcache-tools
 Architecture: linux-any
