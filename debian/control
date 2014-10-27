@@ -1,5 +1,6 @@
 Source: bcache-tools
 Maintainer: David Mohr <david@mcbf.net>
+Uploaders: David Mohr <david@mcbf.net>, Robie Basak <robie@justgohome.co.uk>
 Section: utils
 Priority: optional
 Standards-Version: 3.9.5
