@@ -1,6 +1,14 @@
 bcache-tools (1.0.7-1) unstable; urgency=medium
 
+  [ David Mohr ]
   * Based on work by Gabriel de Perthuis <g2p.code+debian@gmail.com>
   * Initial release. (Closes: #708132)
 
- -- David Mohr <david@mcbf.net>  Sun, 01 Jun 2014 14:52:01 -0600
+  [ Robie Basak ]
+  * Remove unnecessary file bcache-tools.postrm.
+  * debian/copyright fixes.
+  * Add shebang to bcache-tools.preinst.
+  * Drop Vcs-* for now.
+  * Add self to Uploaders.
+
+ -- Robie Basak <robie@justgohome.co.uk>  Mon, 27 Oct 2014 13:32:08 +0000
